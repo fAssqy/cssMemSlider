@@ -80,3 +80,8 @@ input[name="r"]{
     width: 496px;
     border-radius: 10px;
 }
+.text{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+}
